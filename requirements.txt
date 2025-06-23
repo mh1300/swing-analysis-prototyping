@@ -40,6 +40,7 @@ jax==0.6.2
 jaxlib==0.6.2
 jedi==0.19.2
 Jinja2==3.1.6
+joblib==1.5.1
 json5==0.12.0
 jsonpointer==3.0.0
 jsonschema==4.24.0
@@ -117,6 +118,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==14.0.0
 rpds-py==0.25.1
+scikit-learn==1.7.0
 scipy==1.15.3
 Send2Trash==1.8.3
 sentencepiece==0.2.0
@@ -131,6 +133,7 @@ tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==3.1.0
 terminado==0.18.1
+threadpoolctl==3.6.0
 tinycss2==1.4.0
 tomli==2.2.1
 tornado==6.5.1
