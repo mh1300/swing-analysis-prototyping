@@ -6,5 +6,3 @@
 * Random assorted videos found online
 #### Created From Repo
 * segmentedPose.npy - for each row index [0,98] give x,y,z pose data and index 99 gives classification
-### Framework
-### Setup
